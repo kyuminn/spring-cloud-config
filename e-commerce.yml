@@ -1,6 +1,6 @@
 token:
   expiration_time : 864000000 # 10 days [millisecond]
-  secret : user_token # key used for token generation ( key+plain text encrypted)
+  secret : value1 # key used for token generation ( key+plain text encrypted)
 
 gateway:
   ip: 192.168.219.106

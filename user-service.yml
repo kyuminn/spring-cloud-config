@@ -11,3 +11,6 @@ gateway:
 token:
   expiration_time : 864000000 # 10 days [millisecond]
   secret : user_token_dafault # key used for token generation ( key+plain text encrypted)
+
+order_service:
+  url: http://127.0.0.1:8000/order-service/%s/orders

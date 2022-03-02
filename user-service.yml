@@ -4,3 +4,6 @@ spring:
     url: jdbc:h2:mem:testdb
     username: sa
     password: '{cipher}417af479796d29ab56669c8ebaf8bdd7a15cadd7254df2c9400aaef538c8f7b9'
+
+gateway:
+  ip: 172.18.64.1

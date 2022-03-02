@@ -3,4 +3,4 @@ token:
   secret : user_token_dev # key used for token generation ( key+plain text encrypted)
 
 gateway:
-  ip: 192.168.219.106
+  ip: 172.18.64.1
